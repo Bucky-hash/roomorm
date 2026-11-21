@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">studentapp</string>
+    <string name="app_name">StudentMVVM</string>
+    <string name="title_students">Quản Lý Sinh Viên</string>
+    <string name="action_sync">Đồng bộ Cloud</string>
+    <string name="empty_list">Chưa có sinh viên nào</string>
+    <string name="hint_full_name">Họ và tên</string>
+    <string name="hint_student_code">Mã số sinh viên</string>
+    <string name="hint_email">Email (tùy chọn)</string>
+    <string name="hint_gpa">GPA (0.0 - 4.0)</string>
 </resources>
